@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="ftp://posuda9u.beget.tech">
+    <serverData>
+      <paths name="ftp://posuda9u.beget.tech">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/posuda9u.beget.tech/public_html/wp-content/plugins/telepa" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
